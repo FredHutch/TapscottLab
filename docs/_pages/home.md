@@ -4,6 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/Abe-Fong-980-results.jpg
+  caption: "Photo credit: Abe Fong @ TapscottLab"
 excerpt: "The Tapscott Lab focuses on gene transcription in a chromatin context in 
           normal development and disease. The lab uses the myogenic transcription factor MyoD to study how complex programs of gene expression unfold during cell differentiation. In addition, the lab studies gene expression in rhabdomysarcomas (cancers with characteristics of skeletal muscle) and human muscular dystrophies."
 
