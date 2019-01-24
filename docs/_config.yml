@@ -111,7 +111,7 @@ footer:
     - label: "FSH and Friends"
       url: "http://www.fshfriends.org"
     - label: "Fred Hutch"
-      icon: "/assets/images/Hutch-corner-logo-white-900x120.png"
+      icon: assets/images/Hutch-corner-logo-white-900x120.png
       url: "http://fredhutch.org"
 
 
