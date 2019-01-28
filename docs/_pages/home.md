@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Read more"
   - title: "Team Tapscott"
     image_path: assets/images/TapscottLab_Oct2018_980x360.png
-    excerpt: "We have a great team of staff scientists, postdoctoral research fellow, and technicians."
+    excerpt: "We have a great team consisting of staff scientists, postdoctoral research fellow, and technicians."
     url: /team/
     btn_class: "btn--primary"
     btn_label: "Read more"
