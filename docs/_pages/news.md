@@ -12,7 +12,7 @@ feature_row1:
     title: "Rebaccs Resnick's Doctoral defense: <br /> 
     <i>DUX4-induced histone variants H3.X and H3.Y mark DUX4 target genes for expression</i> <br />
     <small> Octobor 22, 2018 </small>"
-    excerpt: "Congratulations to Rebecca Resnick on defending her PhD on October 22nd! Rebecca has shown that we show that DUX4 induces the expression of the histones H3.X and H3.Y. These histone variants are incorporated throughout the body of DUX4-induced genes. Following a brief pulse of DUX4, these histones contribute to greater perdurance and to enhanced re-activation of DUX4 target gene expression. These findings provide a model for a DUX4-induced chromatin memory that facilitates the expression of its target genes subsequent to a brief pulse of DUX4 expression."
+    excerpt: "Congratulations to Rebecca Resnick on defending her PhD on October 22nd! Rebecca will stay in the lab for a few more months before moving on to complete her MD training as part of UW's Medical Scientist Training Program"
 
 ---
 {% include feature_row  id="feature_row1" type="left" %}
