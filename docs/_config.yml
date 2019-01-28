@@ -108,8 +108,6 @@ footer:
     - label: "GitHub Repo"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FredHutch/TapscottLab"
-    - label: "FSH and Friends"
-      url: "http://www.fshfriends.org"
     - label: "Fred Hutch"
       url: "http://fredhutch.org"
 

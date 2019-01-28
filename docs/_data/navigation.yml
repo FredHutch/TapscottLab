@@ -3,13 +3,13 @@ main:
     url: /
   - title: "News"
     url: /news/
-  - title: "Events"
-    url: /Events/
+  - title: "Calendar"
+    url: /lab-calendar/
   - title: "Publications" 
     url: /publications/
   - title: "Team"
     url: /team/
-      
+
   - title: "Blog"
     children:
       - title: "Posts by Year"

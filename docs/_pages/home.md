@@ -17,18 +17,21 @@ feature_row:
     btn_label: "Read more"
   - title: "Team Tapscott"
     image_path: assets/images/TapscottLab_Oct2018_980x360.png
+    excerpt: "We have a great team of staff scientists, postdoctoral research fellow, and technicians."
     url: /team/
     btn_class: "btn--primary"
     btn_label: "Read more"
   - title: "New publications"
-    url: /new_publications/
+    image_path: /assets/images/hmg_m_ddy364f6.png
+    excerpt: "In October 2018, our multi-center collaboration through the Seattle Paul D. Wellstone Muscular Dystrophy Cooperative Research Center published a paper in Human Molecular Genetics: <strong> MRI-informed muscle biopsies correlate MRI with pathology and DUX4 target gene expression in FSHD</strong>."
+    url: https://academic.oup.com/hmg/article/28/3/476/5127144
     btn_class: "btn--primary"
     btn_label: "Read more"
 feature_row2:
   - title: "Friend of FSD research"
     image_path: assets/images/fsh-friend-logo.png
     excerpt: "The mission of Friends of FSH Research is to accelerate the discoveries that will lead to treatments or cures for FSHD. To achieve our goal, we actively manage a portfolio of research that supports a pipeline for drug discovery. Our board, staff, volunteers, and world-class scientists are fully committed to transparent, reproducible, and transformative science that will inspire hope for people with FSHD"
-    url: /partners/
+    url: http://www.fshfriends.org/
     btn_class: "btn--primary"
     btn_label: "Read more"
   - title: "Partners and collaborators"
