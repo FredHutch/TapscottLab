@@ -38,7 +38,7 @@ feature_row4:
   -  image_path: /assets/images/avatar-unknown3.png
      title: Nicholas Sutliff <br /> <small> Research Technician  </small>
   -  image_path: /assets/images/cjwong_lazy_egg.png
-     title: Chao-Jen Wong. <small> Bioinformaticitian </small>
+     title: Chao-Jen Wong <small> Bioinformaticitian </small>
 ---
 
 {% include feature_row  id="feature_row1" type="left" %}
