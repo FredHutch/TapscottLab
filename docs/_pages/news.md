@@ -4,7 +4,7 @@ permalink: /news/
 layout: splash
 header:
   overlay_color: "#333"
-excerpt: "News of conferences hosted with collaborators and events of Tapscott Lab."
+excerpt: >
 
 
 feature_row1:
