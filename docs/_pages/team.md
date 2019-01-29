@@ -20,7 +20,7 @@ feature_row2:
     excerpt: Rebecca received a BA in biology from Amherst College. On October, 2018, she defensed her PhD dissertation on DUX4-induced histone variants H3.X and H3.Y. She is currently a postdoc studying DUX4 regulation and epigenetics in FSHD.
 
   - image_path: /assets/images/danielle-hamm.jpg
-    title: "Danielle Hamm, PhD. <small> Postdoctoral Research Fellow </small>"
+    title: "Danielle Hamm, Ph.D. <small> Postdoctoral Research Fellow </small>"
 
 feature_row3:
   -  image_path: /assets/images/andrew-smith.jpg
