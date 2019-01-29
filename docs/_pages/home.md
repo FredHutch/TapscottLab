@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read more"
 feature_row2:
-  - title: "Friend of FSD research"
+  - title: "Friends of FSD research"
     image_path: assets/images/fsh-friend-logo.png
     excerpt: "The mission of Friends of FSH Research is to accelerate the discoveries that will lead to treatments or cures for FSHD. To achieve our goal, we actively manage a portfolio of research that supports a pipeline for drug discovery. Our board, staff, volunteers, and world-class scientists are fully committed to transparent, reproducible, and transformative science that will inspire hope for people with FSHD"
     url: http://www.fshfriends.org/
