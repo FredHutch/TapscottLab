@@ -14,10 +14,11 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/amy-campbell.png
     title: "Amy Campbell, Ph.D. <br /><small> Staff Scientist </small>"
-    excerpt: Staff Scientist. Amy received a B.A. in Biology from Reed College and a Ph.D. in Cell and Molecular Biology from the University of Pennsylvania, where she studied genetic and epigenetic control of hematopoiesis with Dr. Gerd Blobel. She joined the Tapscott lab in 2013 as a postdoctoral research fellow to investigate DUX4 regulation and function, and to identify therapeutic targets for facioscapulohumeral muscular dystrophy (FSHD). Amy continues to study DUX4 and FSHD biology as a staff scientist, and is also responsible for day-to-day management of the Tapscott lab.
+    excerpt: Amy received a B.A. in Biology from Reed College and a Ph.D. in Cell and Molecular Biology from the University of Pennsylvania, where she studied genetic and epigenetic control of hematopoiesis with Dr. Gerd Blobel. She joined the Tapscott lab in 2013 as a postdoctoral research fellow to investigate DUX4 regulation and function, and to identify therapeutic targets for facioscapulohumeral muscular dystrophy (FSHD). Amy continues to study DUX4 and FSHD biology as a staff scientist, and is also responsible for day-to-day management of the Tapscott lab.
   - image_path: /assets/images/rebecca-resnick.png
     title: "Rebecca Resnick, Ph.D. <br />  <small> Postdoctoral Research Fellow </small>"
-    excerpt: Rebecca received a BA in biology from Amherst College and has been a part of UW’s Medical Scientist Training Program since 2012. She is currently a graduate student in the Molecular and Cellular Biology Program and is studying DUX4 regulation and epigenetics in FSHD.
+    excerpt: Rebecca received a BA in biology from Amherst College. On October, 2018, she defensed her Ph.D. dissertation on DUX4-induced histone variants H3.X and H3.Y. She is currently a postdoc studying DUX4 regulation and epigenetics in FSHD.
+
   - image_path: /assets/images/danielle-hamm.jpg
     title: "Danielle Hamm, PhD. <small> Postdoctoral Research Fellow </small>"
 
